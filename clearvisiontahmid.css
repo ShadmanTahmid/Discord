@@ -14,12 +14,12 @@
 @import url('https://nyri4.github.io/Discolored/main.css');
 
 :root {
-  --main-color: #11ffbb;
+  --main-color: #33FFC4;
   --hover-color: #2196F3;
-  --success-color: #00ffa2;
+  --success-color: #33FFC4;
   --danger-color: #3F51B5;
-  --main-color: #16fda1;
-  --url-color: #02ff9e;
+  --main-color: #33FFC4;
+  --url-color: #33FFC4;
   --background-image: url('https://images8.alphacoders.com/788/788687.jpg');
   --background-shading: 90%;
   --background-position: center;
